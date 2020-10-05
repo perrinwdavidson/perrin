@@ -30,10 +30,10 @@ email: perrinwdavidson@gmail.com
 navigation:
   - text: Home
     url: /
-  - text: Resume
-    url: /docs
+  - text: CV
+    url: /cv
   - text: Contact
-    url: /examples
+    url: /contact
 
 projects:
   - name: git-secret
