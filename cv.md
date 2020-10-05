@@ -4,9 +4,9 @@ layout: default
 
 ## EDUCATION
 ### The University of Chicago | Chicago, IL | 2022
->*Bachelor of Arts in Physics*
->*Bachelor of Sciences in Computational and Applied Mathematics*
->*Minor in Chemistry*
+>>*Bachelor of Arts in Physics*
+>>*Bachelor of Sciences in Computational and Applied Mathematics*
+>>*Minor in Chemistry*
 
 ### Universitetet i Bergen | Bergen, Norway | 2020
 Climate, Atmosphere, and Ocean Physics Program
