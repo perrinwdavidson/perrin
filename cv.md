@@ -3,10 +3,12 @@ layout: default
 ---
 
 ## EDUCATION
-### The University of Chicago | Chicago, IL 
-Bachelor of Arts in Physics | Bachelor of Sciences in Computational and Applied Mathematics | Minor in Chemistry | Expected: June, 2022
+### The University of Chicago | Chicago, IL | 2022
+>*Bachelor of Arts in Physics*
+>*Bachelor of Sciences in Computational and Applied Mathematics*
+>*Minor in Chemistry*
 
-### Universitetet i Bergen | Bergen, Norway 
+### Universitetet i Bergen | Bergen, Norway | 2020
 Climate, Atmosphere, and Ocean Physics Program
 
 ## ENVIRONMENTAL RESEARCH
