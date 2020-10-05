@@ -3,7 +3,6 @@ layout: default
 ---
 
 ## EDUCATION
-
 ### The University of Chicago 
 #### Chicago, IL 
 
