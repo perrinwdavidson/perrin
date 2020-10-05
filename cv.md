@@ -3,8 +3,7 @@ layout: default
 ---
 
 ## EDUCATION
-### The University of Chicago 
-#### Chicago, IL 
+### The University of Chicago #### Chicago, IL 
 
 Bachelor of Arts in Physics
 
