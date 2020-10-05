@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: jekyll-theme-hackcss
+title: Perrin Davidson
 description: > # this means to ignore newlines until "baseurl:"
-  Perrin Davidson | Undergraduate, Aspiring Oceanographer, Environmental Advocate
+  Undergraduate, Aspiring Oceanographer, and Environmental Advocate
 repository: https://github.com/perrinwdavidson/perrin
 baseurl: /perrin  # the subpath of your site, e.g. /blog
 url: https://perrinwdavidson.github.io  # the base hostname & protocol for your site
