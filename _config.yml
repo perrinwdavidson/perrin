@@ -32,8 +32,6 @@ navigation:
     url: /
   - text: Resume
     url: /Resume_PWD_09.05.20.pdf
-  - text: Contact
-    url: /contact
 
 projects:
   - name: git-secret
