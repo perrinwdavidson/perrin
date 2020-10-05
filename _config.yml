@@ -9,7 +9,7 @@
 title: Perrin Davidson
 description: > # this means to ignore newlines until "baseurl:"
   Undergraduate, Aspiring Oceanographer, and Environmental Advocate
-repository: https://github.com/perrinwdavidson/perrin
+repository: https://github.com/perrinwdavidson
 baseurl: /perrin  # the subpath of your site, e.g. /blog
 url: https://perrinwdavidson.github.io  # the base hostname & protocol for your site
 
